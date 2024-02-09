@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">jetpack_weather</string>
+    <string name="back">Takaisin</string>
+    <string name="forecast">Ennuste</string>
 </resources>
